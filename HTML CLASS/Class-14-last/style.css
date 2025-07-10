@@ -1,0 +1,23 @@
+/* select{
+    property:value;
+    property2:value;
+} */
+
+h1{
+    background-color: pink;
+    color: black;
+}
+p{
+    background: #000;
+    color: #fff;
+}
+span{
+    color: pink;
+    /* font-size: xx-large; */
+    /* font-size: xx-small; */
+    /* font-size: 30px; */
+}
+.para{
+    background: pink;
+    color: #000;
+}
